@@ -1,7 +1,7 @@
 package com.r177219053q1;
 
 import java.util.Scanner;
-
+//I added through git
 public class Combination 
 {
 	public static void main(String[] args) 
