@@ -1,11 +1,10 @@
 package com.rt.q2;
 
 public class Employee  implements Cloneable
-{
 	private int id;
 	private String name;
 	private Department dep;
-	
+
 	public int getId() {
 		return id;
 	}
